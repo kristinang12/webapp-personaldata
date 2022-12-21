@@ -38,11 +38,11 @@
  <!-- ======= Hero Section ======= -->
  <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
-    <div class="container">
-                        <div class="row justify-content-center">
+     <div class=".d-none">
+                        <div class="text-black">
                             <div class="col-lg-120">
-                                <div class="card shadow-lg border-5 rounded-lg mt-120">
-                                    <div class="card-header"><h2 class="text-center font-weight-light my-10">Login</h2></div>
+                                <div class=".d-none .text-black d-sm-block">
+                                    <div class="card-header"><h2 class="text-center font-weight-light my-10 text-white">Login</h2></div>
                                     <div class="card-body">
                                         <form>
                                             <div class="form-floating mb-5">
